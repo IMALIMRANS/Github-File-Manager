@@ -1,8 +1,0 @@
-{
-  "name": "GitHub File Manager",
-  "description": "A modern mobile GitHub repository and file manager for browsing, editing, uploading files, and extracting ZIPs with multi-account support and bulk delete.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
